@@ -1,0 +1,18 @@
+{
+  "id": 123,
+  "category": {
+    "id": 0,
+    "name": "string"
+  },
+  "name": "Pepelepuf",
+  "photoUrls": [
+    "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.lavanguardia.com%2Ftelevision%2F20210308%2F6265667%2Fpepe-le-pew-acusado-normalizar-cultura-violacion.html&psig=AOvVaw3EcEki6c-XXO9UkkVcRAl1&ust=1714455548839000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLjRxePa5oUDFQAAAAAdAAAAABAE"
+  ],
+  "tags": [
+    {
+      "id": 0,
+      "name": "string"
+    }
+  ],
+  "status": "available"
+}
